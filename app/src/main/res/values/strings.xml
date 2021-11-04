@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Simple Quiz</string>
+    <string name="start">Start</string>
+    <string name="result">Result</string>
+
+
+    <string-array name="chq1">
+        <item>What is the most popular mobile OS in the world ?</item>
+        <item>iOS</item>
+        <item>Android</item>
+        <item>Windows Phone</item>
+        <item>Android</item>
+
+
+    </string-array>
+
+    <string-array name="chq2">
+        <item>What programming language we use to develop Android apps ?</item>
+        <item>Python</item>
+        <item>JavaScript</item>
+        <item>Java</item>
+        <item>Java</item>
+
+    </string-array>
+
+    <string-array name="chq3">
+        <item>What is the official IDE for Android development ?</item>
+        <item>Android IDE</item>
+        <item>Android Studio</item>
+        <item>Eclipse</item>
+        <item>Android Studio</item>
+
+    </string-array>
+
+    <string-array name="chq4">
+        <item>What is the name of the company that develop Android platform ?</item>
+        <item>Facebook</item>
+        <item>Udacity</item>
+        <item>Google</item>
+        <item>Google</item>
+
+    </string-array>
+
+    <string-array name="chq5">
+        <item>What is the latest version of Android ?</item>
+        <item>Pie</item>
+        <item>10</item>
+        <item>oreo</item>
+        <item>10</item>
+
+    </string-array>
+
+    <string name="num">5</string>
+    <string name="questionlable">Question</string>
+    <string name="confirm">Confirm</string>
+    <string name="next">Next</string>
+    <string name="finish">finish</string>
+
+
+</resources>

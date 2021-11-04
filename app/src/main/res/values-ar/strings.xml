@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">اختبار قصير</string>
+    <string name="start">ابدأ</string>
+    <string name="result">النتيجة</string>
+
+
+    <string-array name="chq1">
+        <item>ما هو نظام التشغيل الأكثر انتشارا في العالم ؟</item>
+        <item>iOS</item>
+        <item>أندرويد</item>
+        <item>ويندوز فون</item>
+        <item>أندرويد</item>
+
+
+    </string-array>
+
+    <string-array name="chq2">
+        <item>ما هي لغة البرمجة التي نستخدمها لبرمجة تطبيقات أندرويد ؟</item>
+        <item>بايثون</item>
+        <item>جافاسكريبت</item>
+        <item>جافا</item>
+        <item>جافا</item>
+
+    </string-array>
+
+    <string-array name="chq3">
+        <item>ما هي بيئة التطوير الرسمية المستخدمة في تطوير تطبيقات أندرويد ؟</item>
+        <item>بيئة تطوير أندرويد المتكاملة</item>
+        <item>أندرويد ستوديو</item>
+        <item>إيكلبس</item>
+        <item>أندرويد ستوديو</item>
+
+    </string-array>
+
+    <string-array name="chq4">
+        <item>ما هو إسم الشركة المطورة لنظام أندرويد ؟</item>
+        <item>فيسبوك</item>
+        <item>يوداستي</item>
+        <item>جوجل</item>
+        <item>جوجل</item>
+
+    </string-array>
+
+    <string-array name="chq5">
+        <item>ما هو آخر إصدار من نظام أندرويد ؟</item>
+        <item>Pie</item>
+        <item>10</item>
+        <item>oreo</item>
+        <item>10</item>
+
+    </string-array>
+
+    <string name="num">5</string>
+    <string name="questionlable">السؤال</string>
+    <string name="confirm">تأكيد</string>
+    <string name="next">التالي</string>
+    <string name="finish">انتهاء</string>
+
+
+
+
+</resources>
